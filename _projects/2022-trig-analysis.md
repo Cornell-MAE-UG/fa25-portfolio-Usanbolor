@@ -3,7 +3,7 @@ layout: project
 title: Analysis of Functions
 description: Cornell Racing ARG26 Steering System Design
 technologies: [MATLAB, CAD, FEA]
-image: /assets/images/function-graph.png
+image: /assets/images/steering.png
 ---
 
 
