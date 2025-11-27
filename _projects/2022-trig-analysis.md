@@ -1,6 +1,6 @@
 ---
 layout: project
-title: Analysis of Functions
+title: Steering System
 description: Cornell Racing ARG26 Steering System Design
 technologies: [MATLAB, CAD, FEA]
 image: /assets/images/steering.png
