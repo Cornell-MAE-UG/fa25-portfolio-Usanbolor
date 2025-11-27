@@ -19,56 +19,51 @@ Aspiring engineering student with a strong foundation in.... Passionate about ..
 
 #### Education
 - **Cornell University**  
-  *Bachelor of Science in Mechanical and Aerospace Engineering*  
+  *Bachelor of Science in Mechanical Engineering*  
   GPA: 3.6/4.0 | Graduation: May, 2027
 
-- **[High School Name]**  
+- **Von Steuben High School**  
   *High School Diploma*  
-  Graduation: [May, 2023]
+  Graduation: May, 2023
 
 ---
 
 #### Skills
-- **Software:** Autodesk Fusion 360, SolidWorks, ANSYS  
+- **Software:** Autodesk Fusion 360, SolidWorks, ANSYS, Onshape  
 - **Programming:** Python, MATLAB  
-- **Tools:** 3D Printing, Laser Cutting  
+- **Tools:** 3D Printing, Laser Cutting, Composites, Mill and Lathe
+- **Languages:** Mongolian(fluent), English(fluent)
 
 ---
 
-#### Projects
-- **[Project Title]**:  
-  *[Short Description]*  
-  - Key Achievement 1  
-  - Key Achievement 2  
+#### Engineering Experience
+- **Ergonomics Subteam member, Cornell Formula SAE Project Team**:  
+  *Lead design, manufacture and testing of the steering system for electrical formula style race cars, integrating ergonomics, safety and driver performance.*  
+  *Designed and built custom electrically integrated steering wheel with CAD designed free form grips, 3 point bend tested improving driver comfort and durability under race conditions*
+  *Collaborate with other subteams for seamless integration and fit for the parts.* 
 
-- **[Project Title]**:  
-  *[Short Description]*  
-  - Key Achievement 1  
-  - Key Achievement 2  
+- **ZT Research Group, Undergraduate researcher**:  
+  *Develop thermal interface materials (TIMs) using different fabrication methods.*  
+  *Conduct background research on suitable materials, propose manufacturing approaches for the TIMs, fabricate samples in the lab, and perform tests to evaluate their performance.*
 
----
+- **Society of Women Engineers,, Member**:
+   *Planning events for Junior Girl Scout troops, working with coordinators of GS, coordinating the activities and volunteers as a committee member. *
 
-#### Work Experience
-- **[Company Name] - Intern**  
-  [Month, Year] - [Month, Year]  
-  - Responsibility 1  
-  - Responsibility 2  
+- **Robotics**:
+  *Designed and built robots with different functions based on the yearly challenges through VEX competition. *
+  *Mentored new members in mechanical design, CAD, and robotics fundamentals.*    
 
----
-
-#### Achievements & Certifications
-- [Certification Name], [Issuing Organization], [Year]  
-- [Achievement Name], [Competition/Event], [Year]  
 
 ---
 
-#### Extracurricular Activities
-- Member of [Club/Organization Name]  
-- Volunteer for [Event/Organization Name]  
+#### Relevent Other Projects
+- **Mentee, ACE**:  
+  *Collaborated with professional engineers on the Lindblom project, focusing on mechanical systems.*
+  *Obtaining and learning skills from professionals in engineering fields, with focus on mechanical systems within the buildings.*
+
+- **Engineering Design Class**:
+  *Worked on the passion project “Flip Up” (Vestaboard) with the goal of replacing the Marquee sign commonly used by Theatres and Hotels with a safer upgraded design that still keeps the aesthetic feel of the structure of marquee sign.*
+  *Created and Designed multiple small projects that utilized softwares such as On-shape, Fusion 360, laser cutter, 3D printer etc.*
 
 ---
 
-#### References
-Available upon request.
-
----
