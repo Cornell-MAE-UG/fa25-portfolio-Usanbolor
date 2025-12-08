@@ -1,8 +1,8 @@
 ---
 layout: project
-title: Spaceship Design
-description: Just a spaceship that I designed
-technologies: [SolidWorks, Machining]
+title: Active Suspension Design
+description:  Our project focuses on modeling, analyzing, and designing control strategies for an automotive active suspension system.
+technologies: [MATLAB]
 image: /assets/images/spaceship-design.jpg
 ---
 
