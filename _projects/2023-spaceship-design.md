@@ -6,7 +6,7 @@ technologies: [MATLAB]
 image: /assets/images/active-suspension.png
 ---
 $$
- /textbf{Team members:} John Apessos, Usanbolor Amartuvshin, Charles Pearson
+ **Team members:** John Apessos, Usanbolor Amartuvshin, Charles Pearson
 ---
 ### **Introduction**
 
@@ -14,15 +14,15 @@ The quarter-car suspension model is the simplest representation of vehicle suspe
 
 To be able to model the system easily, several assumptions are made. We only consider vertical motion/displacement of the system meaning we will neglect yaw, roll and pitch.  Likewise we ignore aerodynamic impacts such as downforce, body weight shifts or body roll because including them will introduce additional degrees of freedom and becomes more complicated to model. Both masses are assumed to be rigid and constant, and suspension components are modeled as linear, which allows us to utilize the force-displacement and force-velocity relationships. In the real world, each part of course experiences friction, however to make the model simpler we model the system as frictionless. Finally, the road input is treated as a known disturbance acting only on the tire, and the actuator is assumed to perform ideally, without delays, bandwidth limitations, saturation and perfect sensor performance as well. This ensures the control force is applied exactly as commanded.
 ---
-## **System Requirements and Assumptions**
+### **System Requirements and Assumptions**
 
 $$
-Target Value:
-acceleration a(t)< 5m/s^2
-displacement y(t)<1.5 cm
-shock travel < 10cm
+\textbf{Target Values:} \\
+a(t) < 5 \, \text{m/s}^2 \\
+y(t) < 1.5 \text{ cm} \\
+\Shock travel < 10 \text{ cm}
 $$
 ### **Quarter Car schematic:**
-<img src=" /assets/images/active-suspension.png" width="450">
+<img src="assets/images/active-suspension.png" width="450">
 ---
 
