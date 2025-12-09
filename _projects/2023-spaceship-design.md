@@ -37,8 +37,7 @@ $$
 \text{travel} < 0.10\, \text{m}
 $$
 
- **Quarter Car schematic:**
-
+![Quarter Car Schematic](/assets/images/active-suspension.png)
 
 
 ---
