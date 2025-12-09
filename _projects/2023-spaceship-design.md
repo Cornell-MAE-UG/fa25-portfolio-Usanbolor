@@ -9,7 +9,7 @@ image: /assets/images/active-suspension.png
 
 Team members: John Apessos, Usanbolor Amartuvshin, Charles Pearson
 
-**Introduction**
+#### **Introduction**
 
 The quarter-car suspension model is the simplest representation of vehicle suspension dynamics. It considers only one wheel and the associated portion of the vehicle’s mass — essentially one quarter of the entire car. Because we assume that each wheel behaves symmetrically, modeling a single wheel provides a practical and accurate approximation while significantly simplifying the system. Previously in class, we focused on passive suspension systems, where the motion of the vehicle body is solely dependent on road disturbances and the natural reaction of the springs and dampers. However, our final group work examines an active suspension system, which includes an actuator that applies external input (F). This optimizes the comfort of the driver and gains better control over movement of the car. 
 
@@ -17,18 +17,29 @@ To be able to model the system easily, several assumptions are made. We only con
 
 ---
 
-**System Requirements and Assumptions**
+#### **System Requirements and Assumptions**
+
+- **acceleration:**
 
 $$
-\textbf{Target Values:} \\
-a(t) < 5 \, \text{m/s}^2 \\
-y(t) < 1.5 \text{ cm} \\
-\Shock travel < 10 \text{ cm}
+|a(t)| < 1.5 \,\text{m/s}^2 \quad \text{(active design)}
+$$
+
+- **displacement**
+
+$$
+|y(t)| < 0.015\, \text{m}
+$$
+
+- **Shock travel constraint**
+
+$$
+\text{travel} < 0.10\, \text{m}
 $$
 
  **Quarter Car schematic:**
 
-<img src="/assets/images/active-suspension.png" width="450">
+
 
 ---
 
