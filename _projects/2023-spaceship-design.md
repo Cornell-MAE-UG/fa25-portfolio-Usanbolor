@@ -4,6 +4,7 @@ title: MAE3260 Final Project: Modeling and Control of an Active Suspension Syste
 description:  Our project focuses on modeling, analyzing, and designing control strategies for an automotive active suspension system.
 technologies: [MATLAB]
 image: /assets/images/active-suspension.png
+
 ---
 
 
