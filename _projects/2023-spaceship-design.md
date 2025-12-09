@@ -5,7 +5,6 @@ description:  Our project focuses on modeling, analyzing, and designing control 
 technologies: [MATLAB]
 image: /assets/images/active-suspension.png
 ---
-$$
  **Team members:** John Apessos, Usanbolor Amartuvshin, Charles Pearson
 ---
 ### **Introduction**
