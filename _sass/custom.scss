@@ -136,6 +136,12 @@ footer {
   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
 }
 
+.inline-image-center {
+  display: block;      /* makes the image behave like a block element */
+  margin: 0 auto;      /* auto left/right margin centers it */
+  max-width: 350px;    /* optional, like your other inline images */
+  vertical-align: top; /* optional */
+}
 
 .gallery-container {
   display: flex;

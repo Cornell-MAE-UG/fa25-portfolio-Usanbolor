@@ -19,6 +19,7 @@ To be able to model the system easily, several assumptions are made. We only con
 ---
 
 #### State Space Model
+-**Governing ODE**
 
 
 
