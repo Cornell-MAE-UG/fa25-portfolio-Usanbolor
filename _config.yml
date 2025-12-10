@@ -15,7 +15,7 @@ description              : Usanbolor Amartuvshin - Projects and CV
 baseurl                  : "/fa25-portfolio-Usanbolor" # Set this to your repo name 
 
 # Theme and Style
-theme: jekyll-theme-midnight 
+theme: jekyll-theme-minimal
 color_scheme: dessert # light/default, dark, dessert, creme or aqua
 
 sass:
