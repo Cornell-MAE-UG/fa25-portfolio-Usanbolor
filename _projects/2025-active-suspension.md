@@ -35,7 +35,12 @@ To be able to model the system easily, several assumptions are made. We only con
 
 ![]({{ "/assets/images/system-equation4.png" | relative_url }}){: .inline-image-center style="width: 150px"}
 
----
+- **State Space Model**
 
+![]({{ "/assets/images/system-equation6.png" | relative_url }}){: .inline-image-center style="width: 300px"}
+
+![]({{ "/assets/images/system-equation7.png" | relative_url }}){: .inline-image-center style="width: 300px"}
+
+---
 
 
