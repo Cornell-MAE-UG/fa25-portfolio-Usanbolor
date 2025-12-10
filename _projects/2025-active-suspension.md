@@ -20,27 +20,66 @@ To be able to model the system easily, several assumptions are made. We only con
 
 #### State Space Model
 - **Governing ODE**
-
-![Force balance on sprung and unsprung masses]({{ "/assets/images/system-equation1.png" | relative_url }}){: .inline-image-center style="width: 400px"}
+![Force balance on sprung and unsprung masses]({{ "/assets/images/system-equation1.png" | relative_url }}){: .inline-image-center style="width: 450px"}
 
 - **State Vector**
-
-![]({{ "/assets/images/system-equation2.png" | relative_url }}){: .inline-image-center style="width: 150px"}
+![]({{ "/assets/images/system-equation2.png" | relative_url }}){: .inline-image-center style="width: 100px"}
 
 - **Inputs**
-
-![]({{ "/assets/images/system-equation3.png" | relative_url }}){: .inline-image-center style="width: 150px"}
+![]({{ "/assets/images/system-equation3.png" | relative_url }}){: .inline-image-center style="width: 100px"}
 
 - **Outputs**
-
-![]({{ "/assets/images/system-equation4.png" | relative_url }}){: .inline-image-center style="width: 150px"}
+![]({{ "/assets/images/system-equation4.png" | relative_url }}){: .inline-image-center style="width: 100px"}
 
 - **State Space Model**
-
-![]({{ "/assets/images/system-equation6.png" | relative_url }}){: .inline-image-center style="width: 300px"}
-
-![]({{ "/assets/images/system-equation7.png" | relative_url }}){: .inline-image-center style="width: 300px"}
+![]({{ "/assets/images/system-equation6.png" | relative_url }}){: .inline-image-center style="width: 350px"}
+![]({{ "/assets/images/system-equation7.png" | relative_url }}){: .inline-image-center style="width: 350px"}
 
 ---
+
+#### Transfer Function Model
+- **Transfer Function**
+![]({{ "/assets/images/system-equation8.png" | relative_url }}){: .inline-image-center style="width: 200px"}
+
+- **System Poles**
+![]({{ "/assets/images/system-equation9.png" | relative_url }}){: .inline-image-center style="width: 200px"}
+
+---
+
+#### Closed Loop Analysis
+- **Closed Loop Block Diagram of the System**
+![]({{ "/assets/images/system-equation5.png" | relative_url }}){: .inline-image-center style="width: 200px"}
+
+- **State Vector with Closed Loop Control**
+![]({{ "/assets/images/system-equation10.png" | relative_url }}){: .inline-image-center style="width: 350px"}
+
+---
+
+#### Simulation Parameters
+- Sprung Mass (M_1) = 300 kg
+- Unsprung Mass (M_2) = 60 kg
+- Suspenstion Stiffness (k_1) = 17,000 N/m
+- Suspension Dampping (b_1) = 2500 Ns/m
+- Tire Stiffness (k_2) = 190,000 N/m
+- Road Step = 0.05m
+
+---
+
+#### Simulation Results
+
+Here is a performance comparison between suspension with no control and a suspension with skyhook control. 
+![Open loop vs closed loop suspension responce]({{ "/assets/images/system-result.png" | relative_url }}){: .inline-image-center style="width: 450px"}
+
+---
+
+#### Conclusion
+
+The active suspension system with skyhook control demonstrates clear improvements over the passive model, providing reduced body displacement and a more comfortable ride. Using a state-space modeling approach allowed us to simplify the system representation and gain better insight for improving the overall design.
+
+---
+
+
+
+
 
 
