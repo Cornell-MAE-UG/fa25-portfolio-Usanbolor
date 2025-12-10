@@ -19,10 +19,23 @@ To be able to model the system easily, several assumptions are made. We only con
 ---
 
 #### State Space Model
--**Governing ODE**
+- **Governing ODE**
 
-![Shaded rendering of earlier version]({{ "/assets/images/system-equation1.png" | relative_url }}){: .inline-image-center style="width: 200px"}
+![Force balance on sprung and unsprung masses]({{ "/assets/images/system-equation1.png" | relative_url }}){: .inline-image-center style="width: 200px"}
 
+- **State Vector**
+
+![]({{ "/assets/images/system-equation2.png" | relative_url }}){: .inline-image-center style="width: 200px"}
+
+- **Inputs**
+
+![]({{ "/assets/images/system-equation3.png" | relative_url }}){: .inline-image-center style="width: 200px"}
+
+- **Outputs**
+
+![]({{ "/assets/images/system-equation4.png" | relative_url }}){: .inline-image-center style="width: 200px"}
+
+---
 
 
 
