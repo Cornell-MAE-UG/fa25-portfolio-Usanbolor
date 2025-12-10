@@ -21,6 +21,7 @@ To be able to model the system easily, several assumptions are made. We only con
 #### State Space Model
 -**Governing ODE**
 
+![Shaded rendering of earlier version]({{ "/assets/images/system-equation1.png" | relative_url }}){: .inline-image-center style="width: 200px"}
 
 
 
