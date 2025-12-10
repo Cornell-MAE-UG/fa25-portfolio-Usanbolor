@@ -16,7 +16,7 @@ baseurl                  : "/fa25-portfolio-Usanbolor" # Set this to your repo n
 
 # Theme and Style
 theme: jekyll-theme-minimal
-color_scheme: dessert # light/default, dark, dessert, creme or aqua
+color_scheme: desert # light/default, dark, dessert, creme or aqua
 
 sass:
   style: compressed
