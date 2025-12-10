@@ -22,7 +22,7 @@ To be able to model the system easily, several assumptions are made. We only con
 
 #### State Space Model
 - **Governing ODE**
-![Force balance on sprung and unsprung masses]({{ "/assets/images/system-equation1.png" | relative_url }}){: .inline-image-center style="width: 450px"}
+![Force balance on sprung and unsprung masses]({{ "/assets/images/system-equation1.png" | relative_url }}){: .inline-image-center style="width: 500px"}
 
 - **State Vector**
 ![]({{ "/assets/images/system-equation2.png" | relative_url }}){: .inline-image-center style="width: 100px"}
@@ -44,13 +44,13 @@ To be able to model the system easily, several assumptions are made. We only con
 ![]({{ "/assets/images/system-equation8.png" | relative_url }}){: .inline-image-center style="width: 200px"}
 
 - **System Poles**
-![]({{ "/assets/images/system-equation9.png" | relative_url }}){: .inline-image-center style="width: 200px"}
+![]({{ "/assets/images/system-equation9.png" | relative_url }}){: .inline-image-center style="width: 100px"}
 
 ---
 
 #### Closed Loop Analysis
 - **Closed Loop Block Diagram of the System**
-![]({{ "/assets/images/system-equation5.png" | relative_url }}){: .inline-image-center style="width: 200px"}
+![]({{ "/assets/images/system-equation5.png" | relative_url }}){: .inline-image-center style="width: 500px"}
 
 - **State Vector with Closed Loop Control**
 ![]({{ "/assets/images/system-equation10.png" | relative_url }}){: .inline-image-center style="width: 350px"}
@@ -70,7 +70,7 @@ To be able to model the system easily, several assumptions are made. We only con
 #### Simulation Results
 
 Here is a performance comparison between suspension with no control and a suspension with skyhook control. 
-![Open loop vs closed loop suspension responce]({{ "/assets/images/system-result.png" | relative_url }}){: .inline-image-center style="width: 450px"}
+![Open loop vs closed loop suspension responce]({{ "/assets/images/system-result.png" | relative_url }}){: .inline-image-center style="width: 600px"}
 
 ---
 
