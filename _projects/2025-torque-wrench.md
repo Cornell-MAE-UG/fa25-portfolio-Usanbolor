@@ -29,11 +29,7 @@ For our design we used aluminum 7075-T651 as it has high strength while being li
 #### FEM applied boundary conditions and loads
 
 We held the drive end at constant by setting the displacement components equal to 0. Then we  applied 42.86lbf = Torque/Length at the end face in y direction. 
-![]({{ "/assets/images/fem1.png" | relative_url }}){: .inline-image-l}
-
-
-
-
+![]({{ "/assets/images/fem1.png" | relative_url }}){: .inline-image-center}
 
 ---
 
