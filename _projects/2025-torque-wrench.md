@@ -11,11 +11,14 @@ For MAE3270 (Materials), we were tasked with designing a non-ratcheting, 3/8-inc
 ---
 
 #### Main Dimensions & Material
+
+![Schematic of Torque Wrench]({{ "/assets/images/torque-wrench2.png" | relative_url }}){: .inline-image-l}
 - L = 14 in
 - b = 0.75 in
 - h = 0.6 in
 - c = 1 in
-![Schematic of Torque Wrench]({{ "/assets/images/torque-wrench2.png" | relative_url }}){: .inline-image-l}
+
+
 
 **Material Selection**
 
@@ -27,6 +30,10 @@ For our design we used aluminum 7075-T651 as it has high strength while being li
 
 We held the drive end at constant by setting the displacement components equal to 0. Then we  applied 42.86lbf = Torque/Length at the end face in y direction. 
 ![]({{ "/assets/images/fem1.png" | relative_url }}){: .inline-image-l}
+
+
+
+
 
 ---
 
