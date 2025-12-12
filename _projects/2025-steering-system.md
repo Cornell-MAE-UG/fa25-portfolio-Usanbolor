@@ -13,4 +13,4 @@ A well-designed steering system must not only provide precise directional contro
 
 My focus is on creating a steering system design that is lightweight, compliant with competition rules, rigid, and minimizes slop, while maintaining optimal performance under dynamic driving conditions. Checkout my detailed design below!
 
-[Download the PDF](/fa25-portfolio-Usanbolor/assets/technical_report.pdf)
+[Download the PDF](/fa25-portfolio-Usanbolor/assets/25technicalreport.pdf)
